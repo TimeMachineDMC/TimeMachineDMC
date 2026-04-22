@@ -8,7 +8,7 @@ A tech enthusiast exploring the boundaries of Embodied Intelligence & Robotics.
 
 Undergraduate student at BUPT | Aspiring Ph.D candidate.
 
-[![][social-wechat-shield]]
+[![][social-wechat-shield]][social-wechat-link]
 [![][social-email-shield]][social-email-link]
 
 ![][split]
@@ -25,14 +25,13 @@ Undergraduate student at BUPT | Aspiring Ph.D candidate.
 
 | Domain           | Skills                                                                |
 | :--------------- | :------------------------------------------------------------------------------------------------------------- |
-| Design           | ![][design-figma] ![][design-ps] ![][design-ai]|
-| Frontend         | ![][frontend-vue] ![][frontend-react] ![][frontend-js] ![][frontend-css]  ![][frontend-ts] |
-| Backend          | ![][backend-python] ![][backend-nodejs] ![][backend-cpp] ![][backend-c] ![][backend-mysql]     |
-| Machine Learning | ![][ml-pytorch] ![][ml-r]                                                                                      |
-| DevOps           | ![][ops-docker] ![][ops-nginx] ![][ops-vercel] ![][ops-github-action]                                                                            |
-| IDE              | ![][ide-cursor] ![][ide-vscode] ![][ide-vim]                                                                    |
-| OS               | ![][os-macos] ![][os-linux]                                                                           |
-| Other            | ![][other-markdown]                                                                                            |
+| Frontend         | ![][frontend-js] ![][frontend-css] |
+| Backend          | ![][backend-python] ![][backend-cpp] ![][backend-c] |
+| Machine Learning | ![][ml-pytorch] |
+| DevOps           | ![][ops-vercel] ![][ops-github-action] |
+| IDE              | ![][ide-vscode] ![][ide-vim] |
+| OS               | ![][os-macos] ![][os-linux] ![][os-windows] |
+| Other            | ![][other-markdown] ![][other-LaTeX] ![][other-git] |
 
 ### ⭐️ Blogs & Contributions
 
@@ -92,29 +91,19 @@ Hit me up anytime and let's explore new ideas together! 😺✨
 [signature]: ./README.assets/signature.svg
 [backend-c]: https://img.shields.io/badge/-C-000?style=flat-square&logoColor=white&logo=c
 [backend-cpp]: https://img.shields.io/badge/-C%2B%2B-000?style=flat-square&logoColor=white&logo=cplusplus
-[backend-mysql]: https://img.shields.io/badge/-MySQL-000?style=flat-square&logoColor=white&logo=mysql
-[backend-nodejs]: https://img.shields.io/badge/-Node.js-000?style=flat-square&logoColor=white&logo=nodedotjs
 [backend-python]: https://img.shields.io/badge/-Python-000?style=flat-square&logoColor=white&logo=python
-[design-ai]: https://img.shields.io/badge/-Illustrator-000?style=flat-square&logoColor=white&logo=adobeillustrator
-[design-figma]: https://img.shields.io/badge/-Figma-000?style=flat-square&logoColor=white&logo=figma
-[design-ps]: https://img.shields.io/badge/-Photoshop-000?style=flat-square&logoColor=white&logo=adobephotoshop
 [frontend-css]: https://img.shields.io/badge/-CSS3-000?style=flat-square&logoColor=white&logo=css
 [frontend-js]: https://img.shields.io/badge/-JavaScript-000?style=flat-square&logoColor=white&logo=javascript
-[frontend-react]: https://img.shields.io/badge/-React-000?style=flat-square&logoColor=white&logo=react
-[frontend-ts]: https://img.shields.io/badge/-TypeScript-000?style=flat-square&logoColor=white&logo=typescript
-[frontend-vue]: https://img.shields.io/badge/-Vue.js-000?style=flat-square&logoColor=white&logo=vuedotjs
-[ide-cursor]: https://img.shields.io/badge/-Cursor-000?style=flat-square&logoColor=white&logo=cursor
 [ide-vim]: https://img.shields.io/badge/-Vim-000?style=flat-square&logoColor=white&logo=vim
 [ide-vscode]: https://img.shields.io/badge/-VS_Code-000?style=flat-square&logoColor=white&logo=visualstudiocode
 [ml-pytorch]: https://img.shields.io/badge/-PyTorch-000?style=flat-square&logoColor=white&logo=pytorch
-[ml-r]: https://img.shields.io/badge/-R-000?style=flat-square&logoColor=white&logo=r
-[ops-docker]: https://img.shields.io/badge/-Docker-000?style=flat-square&logoColor=white&logo=docker
-[ops-nginx]: https://img.shields.io/badge/-Nginx-000?style=flat-square&logoColor=white&logo=nginx
 [ops-vercel]: https://img.shields.io/badge/-Vercel-000?style=flat-square&logoColor=white&logo=vercel
 [ops-github-action]: https://img.shields.io/badge/-GitHub_Actions-000?style=flat-square&logoColor=white&logo=githubactions
 [os-macos]: https://img.shields.io/badge/-macOS-000?style=flat-square&logoColor=white&logo=apple
 [os-linux]: https://img.shields.io/badge/-Linux-000?style=flat-square&logoColor=white&logo=linux
 [other-markdown]: https://img.shields.io/badge/-Markdown-000?style=flat-square&logoColor=white&logo=markdown
+[other-latex]: https://img.shields.io/badge/-LaTeX-000?style=flat-square&logoColor=white&logo=latex
+[other-git]: https://img.shields.io/badge/-Git-000?style=flat-square&logoColor=white&logo=git
 [social-wechat-shield]: https://img.shields.io/badge/-Yequin11982-000?style=flat-square&logo=wechat&logoColor=white
 [social-email-link]: mailto:danilhwang@outlook.com
 [social-email-shield]: https://img.shields.io/badge/-danilhwang@outlook.com-000?style=flat-square&logo=microsoftoutlook&logoColor=white
