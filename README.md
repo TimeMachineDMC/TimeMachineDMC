@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi there, I'm 𝑫𝒂𝒏𝒊𝒍 𝑯𝒘𝒂𝒏𝒈</h1>
 
-Embodied Intelligence & Large Language Model
+Embodied AI & Large Language Model
 
 Undergraduate student at BUPT
 
@@ -42,35 +42,21 @@ Undergraduate student at BUPT
 <table border="0">
   <tr>
     <td width="60%">
-      <h3>01. 具身智能与机器人控制 (Embodied AI)</h3>
+      <h3>01. 具身智能科研 · 𝔼𝕘𝕠𝔻𝕖𝕩-𝕋𝕒𝕔</h3>
       <p><b>核心研究：</b> 基于 <b>H-RDT</b> 框架与 <b>EgoDex</b> 模型，探索机械臂与灵巧手的协同控制。致力于提升机器人在复杂环境下的感知与操作精度。</p>
       <p>
-        <a href="你的GITHUB链接"><img src="https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github" /></a>
-        <img src="https://img.shields.io/badge/Tech-PyTorch%20|%20ROS%20|%20C++-blue?style=flat-square" />
+        <a href="https://github.com/TimeMachineDMC/TBC"><img src="https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github" /></a>
+        <img src="https://img.shields.io/badge/Python%20|%20ROS%20|%20C++-blue?style=flat-square" />
       </p>
     </td>
     <td width="40%">
-      <img src="IMAGE_URL_HERE_1" alt="Embodied AI" style="border-radius:10px;">
+      <img src="README.assets\LinkerHand.JPG" alt="Embodied AI" style="border-radius:10px;">
     </td>
   </tr>
 
   <tr>
     <td width="60%">
-      <h3>02. 债优盾 · 𝕁𝕦𝕤𝕥𝕚𝕥𝕚𝕒</h3>
-      <p><b>工业级 AI 决策引擎：</b> 专为法律与金融分析设计的 RAG 架构系统。实现高可靠性的知识检索与辅助决策功能。</p>
-      <p>
-        <a href="https://github.com/TimeMachineDMC/zyd-web"><img src="https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github" /></a>
-        <img src="https://img.shields.io/badge/Tech-FastAPI%20|%20RAG%20|%20Python-green?style=flat-square" />
-      </p>
-    </td>
-    <td width="40%">
-      <img src="README.assets\Justitia.png" alt="Justitia Project" style="border-radius:10px;">
-    </td>
-  </tr>
-
-  <tr>
-    <td width="60%">
-      <h3>03.  智能配送小车 · 𝑨𝒖𝒕𝒐𝑽𝒊𝒔𝒊𝒐𝒏𝑪𝒂𝒓𝒕 𝑿</h3>
+      <h3>02.  智能配送小车 · 𝑨𝒖𝒕𝒐𝑽𝒊𝒔𝒊𝒐𝒏𝑪𝒂𝒓𝒕 𝑿</h3>
       <p> 基于 YOLOv8 和 Whisper 的多目标识别与自动驾驶项目，3D 打印产品通过 yolo 进行识别，由机械臂抓取，并通过自动驾驶汽车进行交付。新加坡国立大学暑期研习项目，获评A+。</p>
       <p>
         <a href="https://github.com/TimeMachineDMC/AutoVisionCartX-NUS25summer"><img src="https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github" /></a>
@@ -84,7 +70,23 @@ Undergraduate student at BUPT
 
   <tr>
     <td width="60%">
-      <h3>04. BUPT 本科课程项目总览 · ℂ𝕠𝕕𝕖𝟙𝟙𝟡𝟠𝟚</h3>
+      <h3>03. 债优盾 · 𝕁𝕦𝕤𝕥𝕚𝕥𝕚𝕒</h3>
+      <p><b>工业级 AI 决策引擎：</b> 专为法律与金融分析设计的 RAG 架构系统。实现高可靠性的知识检索与辅助决策功能。</p>
+      <p>
+        <a href="https://github.com/TimeMachineDMC/zyd-web"><img src="https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github" /></a>
+        <img src="https://img.shields.io/badge/Tech-FastAPI%20|%20RAG%20|%20Python-green?style=flat-square" />
+      </p>
+    </td>
+    <td width="40%">
+      <img src="README.assets\Justitia.png" alt="Justitia Project" style="border-radius:10px;">
+    </td>
+  </tr>
+
+
+
+  <tr>
+    <td width="60%">
+      <h3>04. BUPT 本科课程项目总览 · 𝑪𝒐𝒅𝒆𝟏𝟏𝟗𝟖𝟐</h3>
       <p><b>本科期间各个课程的课程设计、实验、上机作业。</p>
       <p>
         <a href="https://github.com/TimeMachineDMC/Code11982"><img src="https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github" /></a>
