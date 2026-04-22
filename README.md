@@ -59,7 +59,7 @@ Undergraduate student at BUPT
       <p> 基于 YOLOv8 和 Whisper 的多目标识别与自动驾驶小车，3D 打印产品通过 yolo 进行识别，由机械臂抓取，并通过自动驾驶汽车进行交付。新加坡国立大学暑期研习项目，获评A+。</p>
       <p>
         <a href="https://github.com/TimeMachineDMC/AutoVisionCartX-NUS25summer"><img src="https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github" /></a>
-        <img src="https://img.shields.io/badge/DeepLearning%20C%20|%20Robotics-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/DeepLearning%20|%20Robotics-orange?style=flat-square" />
       </p>
     </td>
     <td width="40%">
@@ -100,7 +100,7 @@ Undergraduate student at BUPT
 
 <!-- SHIELD GROUP -->
 
-[banner]: ./README.assets/banner.png
+[banner]: ./README.assets/LaD.png
 [backend-c]: https://img.shields.io/badge/-C-000?style=flat-square&logoColor=white&logo=c
 [backend-cpp]: https://img.shields.io/badge/-C%2B%2B-000?style=flat-square&logoColor=white&logo=cplusplus
 [backend-python]: https://img.shields.io/badge/-Python-000?style=flat-square&logoColor=white&logo=python
