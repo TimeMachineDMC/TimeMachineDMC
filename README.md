@@ -37,25 +37,29 @@ Undergraduate student at BUPT.
 | OS               | ![][os-macos] ![][os-linux]  |
 | Other            | ![][other-markdown] ![][other-LaTeX] ![][other-git] |
 
-### ⭐️ Blogs & Contributions
+### 🔬 Selected Research & Projects
 
-You can checkout my blog [here](https://arthals.ink).
+> [!TIP]
+> Focused on Embodied AI, Robotics, and Large Language Model applications.
 
-> [!NOTE]
-> Feel free to explore my articles and projects, and connect with me on GitHub!
+#### 🤖 Research & Academic
+- **H-RDT Framework** | *BUPT Network Intelligence Research Center*
+  - Research on advanced frameworks for robotic control and decision-making.
+- **EgoDex Models** | *Lead Researcher*
+  - Developed EgoDex models for mechanical arms and dexterous hands, enhancing manipulation precision.
+- **Time-Series Analysis** | *Deep Learning*
+  - Exploring LLM-assisted network traffic analysis and anomaly detection.
 
-<!-- BLOG-POST-LIST:START -->
-- [更适合北大宝宝体质的 xv6 OS Lab 踩坑记 - Part8](https://arthals.ink/blog/xv6-os-lab-part8)
-- [更适合北大宝宝体质的 xv6 OS Lab 踩坑记 - Part6](https://arthals.ink/blog/xv6-os-lab-part6)
-- [如何降级 iOS / iPadOS App](https://arthals.ink/blog/downgrade-ios-app)
-- [更适合北大宝宝体质的 xv6 OS Lab 踩坑记 - Part5](https://arthals.ink/blog/xv6-os-lab-part5)
-- [更适合北大宝宝体质的 xv6 OS Lab 踩坑记 - Part4](https://arthals.ink/blog/xv6-os-lab-part4)
-- [如何高效利用录播](https://arthals.ink/blog/ai-utilized-replay)
-- [更适合北大宝宝体质的 xv6 OS Lab 踩坑记 - Part7](https://arthals.ink/blog/xv6-os-lab-part7)
-- [更适合北大宝宝体质的 xv6 OS Lab 踩坑记 - Part2](https://arthals.ink/blog/xv6-os-lab-part2)
-- [更适合北大宝宝体质的 xv6 OS Lab 踩坑记 - Part3](https://arthals.ink/blog/xv6-os-lab-part3)
-- [更适合北大宝宝体质的 xv6 OS Lab 踩坑记 - Part1](https://arthals.ink/blog/xv6-os-lab-part1)
-<!-- BLOG-POST-LIST:END -->
+#### 🛠️ Engineering & Industrial
+- **Zhai You Dun (Justitia) | ⚖️ 𝕁𝕦𝕤𝕥𝕚𝕥𝕚𝕒**
+  - An industrial-grade AI decision engine designed for sophisticated legal and financial analysis.
+  - *Tech Stack: FastAPI, C++, RAG Architecture.*
+- **Robotics Integration**
+  - Hands-on experience with **ROKAE** arms and **LinkerHand L10** integration for embodied tasks.
+
+#### 🎨 Creative Technology
+- **AI + Classic Reading** | *Award-winning Project*
+  - Creative AI art generation for "The Peach Blossom Spring", blending traditional aesthetics with modern generative models.
 
 ### 📝 Notes
 
