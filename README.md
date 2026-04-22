@@ -39,27 +39,65 @@ Undergraduate student at BUPT.
 
 ### 🔬 Selected Research & Projects
 
-> [!TIP]
-> Focused on Embodied AI, Robotics, and Large Language Model applications.
+### 🚀 Selected Projects & Research
 
-#### 🤖 Research & Academic
-- **H-RDT Framework** | *BUPT Network Intelligence Research Center*
-  - Research on advanced frameworks for robotic control and decision-making.
-- **EgoDex Models** | *Lead Researcher*
-  - Developed EgoDex models for mechanical arms and dexterous hands, enhancing manipulation precision.
-- **Time-Series Analysis** | *Deep Learning*
-  - Exploring LLM-assisted network traffic analysis and anomaly detection.
+<table border="0">
+  <tr>
+    <td width="60%">
+      <h3>01. 具身智能与机器人控制 (Embodied AI)</h3>
+      <p><b>核心研究：</b> 基于 <b>H-RDT</b> 框架与 <b>EgoDex</b> 模型，探索机械臂与灵巧手的协同控制。致力于提升机器人在复杂环境下的感知与操作精度。</p>
+      <p>
+        <a href="你的GITHUB链接"><img src="https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github" /></a>
+        <img src="https://img.shields.io/badge/Tech-PyTorch%20|%20ROS%20|%20C++-blue?style=flat-square" />
+      </p>
+    </td>
+    <td width="40%">
+      <img src="IMAGE_URL_HERE_1" alt="Embodied AI" style="border-radius:10px;">
+    </td>
+  </tr>
 
-#### 🛠️ Engineering & Industrial
-- **Zhai You Dun (Justitia) | ⚖️ 𝕁𝕦𝕤𝕥𝕚𝕥𝕚𝕒**
-  - An industrial-grade AI decision engine designed for sophisticated legal and financial analysis.
-  - *Tech Stack: FastAPI, C++, RAG Architecture.*
-- **Robotics Integration**
-  - Hands-on experience with **ROKAE** arms and **LinkerHand L10** integration for embodied tasks.
+  <tr>
+    <td width="60%">
+      <h3>02. 斋由盾 (𝕁𝕦𝕤𝕥𝕚𝕥𝕚𝕒)</h3>
+      <p><b>工业级 AI 决策引擎：</b> 专为法律与金融分析设计的 RAG 架构系统。实现高可靠性的知识检索与辅助决策功能。</p>
+      <p>
+        <a href="你的GITHUB链接"><img src="https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github" /></a>
+        <img src="https://img.shields.io/badge/Tech-FastAPI%20|%20RAG%20|%20Python-green?style=flat-square" />
+      </p>
+    </td>
+    <td width="40%">
+      <img src="IMAGE_URL_HERE_2" alt="Justitia Project" style="border-radius:10px;">
+    </td>
+  </tr>
 
-#### 🎨 Creative Technology
-- **AI + Classic Reading** | *Award-winning Project*
-  - Creative AI art generation for "The Peach Blossom Spring", blending traditional aesthetics with modern generative models.
+  <tr>
+    <td width="60%">
+      <h3>03.  智能配送小车 · AutoVisionCart X</h3>
+      <p><b>深度学习&机器人：</b> 基于 YOLOv8 和 Whisper 的多目标识别与自动驾驶项目，3D 打印产品通过 yolo 进行识别，由机械臂抓取，并通过自动驾驶汽车进行交付。新加坡国立大学暑期研习项目，获评A+。</p>
+      <p>
+        <a href="https://github.com/TimeMachineDMC/AutoVisionCartX-NUS25summer"><img src="https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github" /></a>
+        <img src="https://img.shields.io/badge/Tech-Embedded%20C%20|%20Control%20Theory-orange?style=flat-square" />
+      </p>
+    </td>
+    <td width="40%">
+      <img src="README.assets\AutoVisionCartX.png" alt="AutoVisionCart X" style="border-radius:10px;">
+    </td>
+  </tr>
+
+  <tr>
+    <td width="60%">
+      <h3>04. 神经网络与时间序列探索 (ML & Time-Series)</h3>
+      <p><b>学术路径：</b> 从机器学习基础理论出发，深入探究神经网络架构，目前聚焦于 <b>LLM 辅助的时间序列分析</b> 与网络流量异常检测。</p>
+      <p>
+        <a href="你的GITHUB链接"><img src="https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github" /></a>
+        <img src="https://img.shields.io/badge/Tech-Deep%20Learning%20|%20Transformer-red?style=flat-square" />
+      </p>
+    </td>
+    <td width="40%">
+      <img src="IMAGE_URL_HERE_4" alt="Time Series Research" style="border-radius:10px;">
+    </td>
+  </tr>
+</table>
 
 
 <!-- SHIELD GROUP -->
