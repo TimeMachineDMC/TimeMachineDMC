@@ -39,8 +39,6 @@ Undergraduate student at BUPT.
 
 ### 🔬 Selected Research & Projects
 
-### 🚀 Selected Projects & Research
-
 <table border="0">
   <tr>
     <td width="60%">
@@ -58,15 +56,15 @@ Undergraduate student at BUPT.
 
   <tr>
     <td width="60%">
-      <h3>02. 斋由盾 (𝕁𝕦𝕤𝕥𝕚𝕥𝕚𝕒)</h3>
+      <h3>02. 债优盾 (𝕁𝕦𝕤𝕥𝕚𝕥𝕚𝕒)</h3>
       <p><b>工业级 AI 决策引擎：</b> 专为法律与金融分析设计的 RAG 架构系统。实现高可靠性的知识检索与辅助决策功能。</p>
       <p>
-        <a href="你的GITHUB链接"><img src="https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github" /></a>
+        <a href="https://github.com/TimeMachineDMC/zyd-web"><img src="https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github" /></a>
         <img src="https://img.shields.io/badge/Tech-FastAPI%20|%20RAG%20|%20Python-green?style=flat-square" />
       </p>
     </td>
     <td width="40%">
-      <img src="IMAGE_URL_HERE_2" alt="Justitia Project" style="border-radius:10px;">
+      <img src="README.assets\Justitia.png" alt="Justitia Project" style="border-radius:10px;">
     </td>
   </tr>
 
