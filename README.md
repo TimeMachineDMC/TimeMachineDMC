@@ -20,8 +20,7 @@ Undergraduate student at BUPT
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=%E8%BF%99%E4%B8%80%E8%B7%AF%E9%83%BD%E6%98%AF%E9%A3%8E%E6%99%AF;%E6%88%91%E7%A9%BF%E8%B6%8A%E6%A3%AE%E6%9E%97%E7%81%AF%E7%BA%A2%E9%85%92%E7%BB%BF" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Zhi+Mang+Xing&weight=600&pause=500&center=true&vCenter=true&width=435&lines=%E8%BF%99%E4%B8%80%E8%B7%AF%E9%83%BD%E6%98%AF%E9%A3%8E%E6%99%AF;%E6%88%91%E7%A9%BF%E8%B6%8A%E6%A3%AE%E6%9E%97%E7%81%AF%E7%BA%A2%E9%85%92%E7%BB%BF" alt="Typing SVG" />
   </a>
 </div>
 
