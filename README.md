@@ -116,4 +116,4 @@ Undergraduate student at BUPT
 [other-markdown]: https://img.shields.io/badge/-Markdown-000?style=flat-square&logoColor=white&logo=markdown
 [other-latex]: https://img.shields.io/badge/-LaTeX-000?style=flat-square&logoColor=white&logo=latex
 [other-git]: https://img.shields.io/badge/-Git-000?style=flat-square&logoColor=white&logo=git
-
+[split]: https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png
