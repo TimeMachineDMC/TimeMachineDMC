@@ -71,10 +71,10 @@ Undergraduate student at BUPT
   <tr>
     <td width="60%">
       <h3>03.  智能配送小车 · 𝑨𝒖𝒕𝒐𝑽𝒊𝒔𝒊𝒐𝒏𝑪𝒂𝒓𝒕 𝑿</h3>
-      <p><b>深度学习&机器人：</b> 基于 YOLOv8 和 Whisper 的多目标识别与自动驾驶项目，3D 打印产品通过 yolo 进行识别，由机械臂抓取，并通过自动驾驶汽车进行交付。新加坡国立大学暑期研习项目，获评A+。</p>
+      <p> 基于 YOLOv8 和 Whisper 的多目标识别与自动驾驶项目，3D 打印产品通过 yolo 进行识别，由机械臂抓取，并通过自动驾驶汽车进行交付。新加坡国立大学暑期研习项目，获评A+。</p>
       <p>
         <a href="https://github.com/TimeMachineDMC/AutoVisionCartX-NUS25summer"><img src="https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github" /></a>
-        <img src="https://img.shields.io/badge/Tech-Embedded%20C%20|%20Control%20Theory-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/DeepLearning%20C%20|%20Robotics-orange?style=flat-square" />
       </p>
     </td>
     <td width="40%">
@@ -85,10 +85,10 @@ Undergraduate student at BUPT
   <tr>
     <td width="60%">
       <h3>04. BUPT 本科课程项目总览 · ℂ𝕠𝕕𝕖𝟙𝟙𝟡𝟠𝟚</h3>
-      <p><b>C++/C/Python/Java/Verilog/JS：</b> 本科期间各个课程的课程设计、实验、上机作业。</p>
+      <p><b>本科期间各个课程的课程设计、实验、上机作业。</p>
       <p>
         <a href="https://github.com/TimeMachineDMC/Code11982"><img src="https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github" /></a>
-        <img src="https://img.shields.io/badge/Tech-Deep%20Learning%20|%20Transformer-red?style=flat-square" />
+        <img src="https://img.shields.io/badge/C++%20Python%20Java%20JS-red?style=flat-square" />
       </p>
     </td>
     <td width="40%">
