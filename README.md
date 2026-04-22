@@ -2,14 +2,18 @@
 
 ![][banner]
 
-<h1 align="center">Hi there, I'm 𝔸𝕣𝕥𝕙𝕒𝕝𝕤</h1>
+<h1 align="center">Hi there, I'm 𝑫𝒂𝒏𝒊𝒍 𝑯𝒘𝒂𝒏𝒈</h1>
 
 A tech enthusiast exploring the boundaries of Embodied Intelligence & Robotics.
 
-Undergraduate student at BUPT | Aspiring Ph.D candidate.
+Undergraduate student at BUPT.
 
-[![][social-wechat-shield]][social-wechat-link]
-[![][social-email-shield]][social-email-link]
+<div align="center">
+
+[![WeChat](https://img.shields.io/badge/WeChat-Yequin11982-07C160?style=flat-square&logo=wechat&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-danilhwang%40outlook.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:danilhwang@outlook.com)
+
+</div>
 
 ![][split]
 
@@ -30,7 +34,7 @@ Undergraduate student at BUPT | Aspiring Ph.D candidate.
 | Machine Learning | ![][ml-pytorch] |
 | DevOps           | ![][ops-vercel] ![][ops-github-action] |
 | IDE              | ![][ide-vscode] ![][ide-vim] |
-| OS               | ![][os-macos] ![][os-linux] ![][os-windows] |
+| OS               | ![][os-macos] ![][os-linux]  |
 | Other            | ![][other-markdown] ![][other-LaTeX] ![][other-git] |
 
 ### ⭐️ Blogs & Contributions
