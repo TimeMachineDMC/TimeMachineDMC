@@ -6,7 +6,7 @@
 
 Embodied AI & Large Language Model
 
-Undergraduate student at BUPT
+Undergraduate student @ [𝕭𝖀𝕻𝕿](https://www.bupt.edu.cn/)
 
 <div align="center">
 
@@ -20,7 +20,7 @@ Undergraduate student at BUPT
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+Simplified+Chinese&weight=600&size=30&pause=300&color=36BCF7FF&center=true&vCenter=true&width=500&lines=%E8%BF%99%E4%B8%80%E8%B7%AF%E9%83%BD%E6%98%AF%E9%A3%8E%E6%99%AF;%E6%88%91%E7%A9%BF%E8%B6%8A%E6%A3%AE%E6%9E%97%E7%81%AF%E7%BA%A2%E9%85%92%E7%BB%BF" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+Simplified+Chinese&weight=500&size=20&pause=300&color=36BCF7FF&center=true&vCenter=true&width=435&lines=%E2%9A%9C%EF%B8%8F%E8%BF%99%E4%B8%80%E8%B7%AF%E9%83%BD%E6%98%AF%E9%A3%8E%E6%99%AF;%E6%88%91%E7%A9%BF%E8%B6%8A%E6%A3%AE%E6%9E%97%E7%81%AF%E7%BA%A2%E9%85%92%E7%BB%BF" alt="Typing SVG" />
   </a>
 </div>
 
@@ -116,4 +116,4 @@ Undergraduate student at BUPT
 [other-markdown]: https://img.shields.io/badge/-Markdown-000?style=flat-square&logoColor=white&logo=markdown
 [other-latex]: https://img.shields.io/badge/-LaTeX-000?style=flat-square&logoColor=white&logo=latex
 [other-git]: https://img.shields.io/badge/-Git-000?style=flat-square&logoColor=white&logo=git
-[split]: https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png
+[split]: https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/vintage.png
