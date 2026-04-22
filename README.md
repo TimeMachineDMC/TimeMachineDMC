@@ -56,7 +56,7 @@ Undergraduate student at BUPT
 
   <tr>
     <td width="60%">
-      <h3>02. 债优盾 (𝕁𝕦𝕤𝕥𝕚𝕥𝕚𝕒)</h3>
+      <h3>02. 债优盾 · 𝕁𝕦𝕤𝕥𝕚𝕥𝕚𝕒</h3>
       <p><b>工业级 AI 决策引擎：</b> 专为法律与金融分析设计的 RAG 架构系统。实现高可靠性的知识检索与辅助决策功能。</p>
       <p>
         <a href="https://github.com/TimeMachineDMC/zyd-web"><img src="https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github" /></a>
@@ -70,7 +70,7 @@ Undergraduate student at BUPT
 
   <tr>
     <td width="60%">
-      <h3>03.  智能配送小车 · AutoVisionCart X</h3>
+      <h3>03.  智能配送小车 · 𝑨𝒖𝒕𝒐𝑽𝒊𝒔𝒊𝒐𝒏𝑪𝒂𝒓𝒕 𝑿</h3>
       <p><b>深度学习&机器人：</b> 基于 YOLOv8 和 Whisper 的多目标识别与自动驾驶项目，3D 打印产品通过 yolo 进行识别，由机械臂抓取，并通过自动驾驶汽车进行交付。新加坡国立大学暑期研习项目，获评A+。</p>
       <p>
         <a href="https://github.com/TimeMachineDMC/AutoVisionCartX-NUS25summer"><img src="https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github" /></a>
@@ -84,15 +84,14 @@ Undergraduate student at BUPT
 
   <tr>
     <td width="60%">
-      <h3>04. 神经网络与时间序列探索 (ML & Time-Series)</h3>
-      <p><b>学术路径：</b> 从机器学习基础理论出发，深入探究神经网络架构，目前聚焦于 <b>LLM 辅助的时间序列分析</b> 与网络流量异常检测。</p>
+      <h3>04. BUPT 本科课程项目总览 · ℂ𝕠𝕕𝕖𝟙𝟙𝟡𝟠𝟚</h3>
+      <p><b>C++/C/Python/Java/Verilog/JS：</b> 本科期间各个课程的课程设计、实验、上机作业。</p>
       <p>
-        <a href="你的GITHUB链接"><img src="https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github" /></a>
+        <a href="https://github.com/TimeMachineDMC/Code11982"><img src="https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github" /></a>
         <img src="https://img.shields.io/badge/Tech-Deep%20Learning%20|%20Transformer-red?style=flat-square" />
       </p>
     </td>
     <td width="40%">
-      <img src="IMAGE_URL_HERE_4" alt="Time Series Research" style="border-radius:10px;">
     </td>
   </tr>
 </table>
