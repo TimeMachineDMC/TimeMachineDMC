@@ -4,9 +4,9 @@
 
 <h1 align="center">Hi there, I'm 𝑫𝒂𝒏𝒊𝒍 𝑯𝒘𝒂𝒏𝒈</h1>
 
-A tech enthusiast exploring the boundaries of Embodied Intelligence & Robotics.
+Embodied Intelligence & Large Language Model
 
-Undergraduate student at BUPT.
+Undergraduate student at BUPT
 
 <div align="center">
 
@@ -101,7 +101,6 @@ Undergraduate student at BUPT.
 <!-- SHIELD GROUP -->
 
 [banner]: ./README.assets/banner.png
-[signature]: ./README.assets/signature.svg
 [backend-c]: https://img.shields.io/badge/-C-000?style=flat-square&logoColor=white&logo=c
 [backend-cpp]: https://img.shields.io/badge/-C%2B%2B-000?style=flat-square&logoColor=white&logo=cplusplus
 [backend-python]: https://img.shields.io/badge/-Python-000?style=flat-square&logoColor=white&logo=python
@@ -117,7 +116,4 @@ Undergraduate student at BUPT.
 [other-markdown]: https://img.shields.io/badge/-Markdown-000?style=flat-square&logoColor=white&logo=markdown
 [other-latex]: https://img.shields.io/badge/-LaTeX-000?style=flat-square&logoColor=white&logo=latex
 [other-git]: https://img.shields.io/badge/-Git-000?style=flat-square&logoColor=white&logo=git
-[social-wechat-shield]: https://img.shields.io/badge/-Yequin11982-000?style=flat-square&logo=wechat&logoColor=white
-[social-email-link]: mailto:danilhwang@outlook.com
-[social-email-shield]: https://img.shields.io/badge/-danilhwang@outlook.com-000?style=flat-square&logo=microsoftoutlook&logoColor=white
-[split]: https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png
+
