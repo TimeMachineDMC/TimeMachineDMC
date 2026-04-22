@@ -21,7 +21,7 @@ Undergraduate student at BUPT.
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=这一路都是风景;我穿越森林灯红酒绿" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=%E8%BF%99%E4%B8%80%E8%B7%AF%E9%83%BD%E6%98%AF%E9%A3%8E%E6%99%AF;%E6%88%91%E7%A9%BF%E8%B6%8A%E6%A3%AE%E6%9E%97%E7%81%AF%E7%BA%A2%E9%85%92%E7%BB%BF" alt="Typing SVG" />
   </a>
 </div>
 
@@ -96,7 +96,7 @@ Hit me up anytime and let's explore new ideas together! 😺✨
 [backend-c]: https://img.shields.io/badge/-C-000?style=flat-square&logoColor=white&logo=c
 [backend-cpp]: https://img.shields.io/badge/-C%2B%2B-000?style=flat-square&logoColor=white&logo=cplusplus
 [backend-python]: https://img.shields.io/badge/-Python-000?style=flat-square&logoColor=white&logo=python
-[frontend-css]: https://img.shields.io/badge/-CSS3-000?style=flat-square&logoColor=white&logo=css
+[frontend-css]: https://img.shields.io/badge/-CSS-000?style=flat-square&logoColor=white&logo=css
 [frontend-js]: https://img.shields.io/badge/-JavaScript-000?style=flat-square&logoColor=white&logo=javascript
 [ide-vim]: https://img.shields.io/badge/-Vim-000?style=flat-square&logoColor=white&logo=vim
 [ide-vscode]: https://img.shields.io/badge/-VS_Code-000?style=flat-square&logoColor=white&logo=visualstudiocode
