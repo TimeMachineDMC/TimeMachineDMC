@@ -8,7 +8,7 @@ A tech enthusiast exploring the boundaries of Embodied Intelligence & Robotics.
 
 Undergraduate student at BUPT | Aspiring Ph.D candidate.
 
-[![][social-wechat-shield]][social-wechat-link]
+[![][social-wechat-shield]]
 [![][social-email-shield]][social-email-link]
 
 ![][split]
@@ -208,7 +208,7 @@ Hit me up anytime and let's explore new ideas together! 😺✨
 
 <!-- SHIELD GROUP -->
 
-[banner]: ./README.assets/banner.webp
+[banner]: ./README.assets/banner.png
 [signature]: ./README.assets/signature.svg
 [backend-c]: https://img.shields.io/badge/-C-000?style=flat-square&logoColor=white&logo=c
 [backend-cpp]: https://img.shields.io/badge/-C%2B%2B-000?style=flat-square&logoColor=white&logo=cplusplus
