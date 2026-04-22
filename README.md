@@ -11,7 +11,7 @@ Undergraduate student at BUPT.
 <div align="center">
 
 [![WeChat](https://img.shields.io/badge/WeChat-Yequin11982-07C160?style=flat-square&logo=wechat&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-danilhwang%40outlook.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:danilhwang@outlook.com)
+[![Email](https://img.shields.io/badge/Email-danilhwang%40outlook.com-0078D4?style=flat-square&logo=gmail&logoColor=white)](mailto:danilhwang@outlook.com)
 
 </div>
 
