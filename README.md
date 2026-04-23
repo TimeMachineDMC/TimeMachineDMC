@@ -70,7 +70,7 @@ Undergraduate student @ [𝕭𝖀𝕻𝕿](https://www.bupt.edu.cn/)
   <tr>
     <td width="60%">
       <h3>03. 法财 AI 引擎 · 𝕁𝕦𝕤𝕥𝕚𝕥𝕚𝕒</h3>
-      <p> 专为法律与金融分析设计的 <b>RAG</b> 架构模型。实现高可靠性的知识检索与辅助决策功能。</p>
+      <p> 专为法律与金融分析设计的 <b>RAG</b> 架构模型，实现高可靠性的知识检索与辅助决策功能。</p>
       <p>
         <a href="https://github.com/TimeMachineDMC/zyd-web"><img src="https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github" /></a>
         <img src="https://img.shields.io/badge/Tech-FastAPI%20|%20RAG%20|%20Python-green?style=flat-square" />
