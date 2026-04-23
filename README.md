@@ -56,7 +56,7 @@ Undergraduate student @ [𝕭𝖀𝕻𝕿](https://www.bupt.edu.cn/)
   <tr>
     <td width="60%">
       <h3>02.  视觉智能车 · 𝑨𝒖𝒕𝒐𝑽𝒊𝒔𝒊𝒐𝒏𝑪𝒂𝒓𝒕 𝑿</h3>
-      <p> 基于 YOLOv8 和 Whisper 的多目标识别与自动驾驶小车，3D 打印产品通过 yolo 进行识别，由机械臂抓取，并通过自动驾驶汽车进行交付。新加坡国立大学暑期研习项目，获评A+。</p>
+      <p> 基于 <b>YOLOv8</b> 和 Whisper 的多目标识别与自动驾驶小车，3D 打印产品通过 yolo 进行识别，由机械臂抓取，并通过自动驾驶汽车进行交付。新加坡国立大学暑期研习项目，获评A+。</p>
       <p>
         <a href="https://github.com/TimeMachineDMC/AutoVisionCartX-NUS25summer"><img src="https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github" /></a>
         <img src="https://img.shields.io/badge/DeepLearning%20|%20Robotics-orange?style=flat-square" />
@@ -69,8 +69,8 @@ Undergraduate student @ [𝕭𝖀𝕻𝕿](https://www.bupt.edu.cn/)
 
   <tr>
     <td width="60%">
-      <h3>03. 债优盾 · 𝕁𝕦𝕤𝕥𝕚𝕥𝕚𝕒</h3>
-      <p><b>工业级 AI 决策引擎：</b> 专为法律与金融分析设计的 RAG 架构系统。实现高可靠性的知识检索与辅助决策功能。</p>
+      <h3>03. 法财 AI 引擎 · 𝕁𝕦𝕤𝕥𝕚𝕥𝕚𝕒</h3>
+      <p> 专为法律与金融分析设计的 <b>RAG</b> 架构模型。实现高可靠性的知识检索与辅助决策功能。</p>
       <p>
         <a href="https://github.com/TimeMachineDMC/zyd-web"><img src="https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github" /></a>
         <img src="https://img.shields.io/badge/Tech-FastAPI%20|%20RAG%20|%20Python-green?style=flat-square" />
